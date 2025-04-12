@@ -1,0 +1,11 @@
+/infografis-generator/
+│── config/
+│   └── database.php
+│── libs/
+│   └── intervention/
+│── templates/
+│   └── default.php
+│── outputs/
+│── index.php
+│── generate.php
+│── style.css
