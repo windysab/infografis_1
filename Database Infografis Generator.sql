@@ -55,7 +55,7 @@ INSERT INTO infografis (judul, deskripsi, warna_latar, warna_teks, template) VAL
 
 -- Data contoh untuk tabel statistik
 INSERT INTO statistik (infografis_id, label, nilai, warna, urutan) VALUES
--- Data untuk infografis 1 (Statistik Pengunjung Website)
+/* Data untuk infografis 1 (Statistik Pengunjung Website) */
 (1, 'Januari', 12500, '#3498db', 1),
 (1, 'Februari', 14320, '#3498db', 2),
 (1, 'Maret', 16800, '#3498db', 3),
@@ -67,7 +67,7 @@ INSERT INTO statistik (infografis_id, label, nilai, warna, urutan) VALUES
 (1, 'September', 20300, '#f1c40f', 9),
 (1, 'Oktober', 22500, '#f1c40f', 10),
 (1, 'November', 24100, '#9b59b6', 11),
-(1, 'Desember', 26500, '#9b59b6', 12),
+(1, 'Desember', 26500, '#9b59b6', 12);
 
 -- Data untuk infografis 2 (Pertumbuhan Penduduk)
 (2, '2010', 1250000, '#3498db', 1),
